@@ -12,6 +12,7 @@
   padding: 9px;
   width: 90px;
   text-transform: uppercase;
+  border-radius: 9px;
 }
 
 .final-score:focus { outline: none; }
